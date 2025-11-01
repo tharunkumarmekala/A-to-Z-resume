@@ -1,0 +1,5 @@
+{
+  "name": "Resume A to Z",
+  "description": "An intelligent resume optimization platform to help users craft, tailor, and validate resumes. It features a resume editor with JD-aware optimization, an automated job alert aggregator, and an ATS compatibility checker, all powered by Google's Gemini models.",
+  "requestFramePermissions": []
+}
